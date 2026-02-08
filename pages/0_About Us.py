@@ -80,7 +80,7 @@ with st.container():
             st.markdown("<p style='font-size:24px; text-align:justify;'>Ang napag-uusapan ay mula sa pilosopiya, agham, matematika, o ano mang konseptong puwedeng magpalawak ng ating isipan. </p>", unsafe_allow_html=True)
             
         with col_right:
-            st.image("https://imgur.com/PKmlUuc.JPG", width=700)
+            st.image("https://imgur.com/PKmlUuc.png", width=700)
 
 st.markdown("<p style='font-size:24px; text-align:justify;'>Para mapalaganap ang misyon ng grupong makatulong sa bansang Pilipinas gamit ang pagpapahalaga sa rasyonal at kritikal na pag-iisip, layunin namin na tulungan ang ating mga Pilipinong mag-aaral kagaya mo na tumalas pa ang iyong pag-iisip. Ito ay kailangan natin hindi lang para sa ating sariling pag-unlad pati na rin sa ikabubuti ng ating bansa. Lubos na kailangan ng bansa ngayon ang mga makabago at talentadong mag-aaral, at sana ikaw na ang susunod na mapahusay ang kakayahan gamit ang inihandang pag-aaral at pagsusulit.</p>", unsafe_allow_html=True)
 st.markdown("<p style='font-size:24px; text-align:justify;'>Sa platapormang ito, nag-aalok kami ng mga interaktibong pahina na dinisenyo upang palawakin ang iyong kaalaman at kasanayan sa iba't ibang aspeto ng matematika at lohika, mula sa mga pangunahing konsepto hanggang sa mga mas komplikadong teorya.</p>", unsafe_allow_html=True)
@@ -96,4 +96,5 @@ st.markdown('''
     <a href="./Pages/1_Panuntunan.py" style="display:inline-block;margin-top:24px;padding:16px 32px;background:#222;border-radius:12px;color:white;font-size:19px;text-decoration:none;box-shadow:0 0 16px 4px #42a5f5, 0 2px 8px rgba(0,0,0,0.2);font-weight:bold;">Tingnan ang Panuntunan &#8594;</a>
 </div>
 ''', unsafe_allow_html=True)
+
 
