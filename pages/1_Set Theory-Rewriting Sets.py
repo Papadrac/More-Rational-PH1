@@ -303,7 +303,7 @@ if st.session_state.submitted_last and st.session_state.index == len(q_list) - 1
                 del st.session_state["selected_index"]
             st.rerun()
     with row[2]:
-        st.markdown("<a href='/Pages/2_Set Theory-Intersection.py' target='_self'><button style='font-size:16px;padding:8px 16px;border-radius:6px;background:#0099f6;color:white;border:none;cursor:pointer;'>Pumunta sa Susunod na Seksyon →</button></a>", unsafe_allow_html=True)
+        st.markdown("<a href='https://more-rational-ph1-jqfq2eed47wdgf6c79n2as.streamlit.app/Set_Theory-Intersection' target='_self'><button style='font-size:16px;padding:8px 16px;border-radius:6px;background:#0099f6;color:white;border:none;cursor:pointer;'>Pumunta sa Susunod na Seksyon →</button></a>", unsafe_allow_html=True)
 
     st.stop()
 
@@ -311,3 +311,4 @@ if st.session_state.submitted_last and st.session_state.index == len(q_list) - 1
 # BUHAY NA PUNTOS
 # --------------------------
 st.markdown(f"##### Puntos: **{st.session_state.score} / {len(q_list)}**")
+
