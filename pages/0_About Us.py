@@ -91,11 +91,13 @@ st.markdown('''
 <div style="width:100%; display:flex; align-items:center; justify-content:space-between;">
     <a href="/Home" style="display:inline-flex;align-items:center;text-decoration:none;margin-top:24px;">
          <svg xmlns="https://more-rational-ph1-jqfq2eed47wdgf6c79n2as.streamlit.app" width="38" height="38" viewBox="0 0 24 24" fill="none" stroke="#222" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="background:#fff;border-radius:8px;box-shadow:0 0 8px 2px #42a5f5, 0 1px 4px rgba(0,0,0,0.1);margin-right:10px;"><path d="M3 12L12 3l9 9"/><path d="M9 21V9h6v12"/></svg>
+          <a href="https://more-rational-ph1-jqfq2eed47wdgf6c79n2as.streamlit.app/Panuntunan";</a>
         <span style="font-size:22px;color:#222;font-weight:600;vertical-align:middle;">Home</span>
     </a>
     <a href="https://more-rational-ph1-jqfq2eed47wdgf6c79n2as.streamlit.app/Panuntunan" style="display:inline-block;margin-top:24px;padding:16px 32px;background:#222;border-radius:12px;color:white;font-size:19px;text-decoration:none;box-shadow:0 0 16px 4px #42a5f5, 0 2px 8px rgba(0,0,0,0.2);font-weight:bold;">Tingnan ang Panuntunan &#8594;</a>
 </div>
 ''', unsafe_allow_html=True)
+
 
 
 
