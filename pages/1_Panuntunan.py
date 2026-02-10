@@ -37,12 +37,13 @@ st.markdown("<p style='font-size:19px'>Tapusin ang kursong ito at siguradong hin
 
 st.markdown('''
 <div style="width:100%; display:flex; align-items:center; justify-content:space-between;">
-    <a href="https://more-rational-ph1-jqfq2eed47wdgf6c79n2as.streamlit.app/" style="display:flex;align-items:center;text-decoration:none;margin-top:24px;gap:10px;">
+    <a href="https://morerationalph.streamlit.app/" style="display:flex;align-items:center;text-decoration:none;margin-top:24px;gap:10px;">
         <span style="font-size:28px;line-height:1;">𖠿</span>
         <span style="font-size:19px;color:#222;font-weight:bold;vertical-align:middle;text-align:left;">Home</span>
     </a>
     <a href="https://morerationalph.streamlit.app/Set_Theory-Panimula" style="display:inline-block;margin-top:24px;padding:16px 32px;background:#222;border-radius:12px;color:white;font-size:19px;text-decoration:none;box-shadow:0 0 16px 4px #42a5f5, 0 2px 8px rgba(0,0,0,0.2);font-weight:bold;">Simulan ang Pag-aaral &#8594;</a>
 </div>
 ''', unsafe_allow_html=True)
+
 
 
