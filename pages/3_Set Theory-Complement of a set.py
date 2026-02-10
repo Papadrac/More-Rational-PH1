@@ -251,7 +251,7 @@ if st.session_state.submitted_last:
                 del st.session_state["selected_index"]
             st.rerun()
     with row[2]:
-        st.markdown("<a href='https://more-rational-ph1-jqfq2eed47wdgf6c79n2as.streamlit.app/Set_Theory-Set_Difference' target='_self'><button style='font-size:16px;padding:8px 16px;border-radius:6px;background:#0099f6;color:white;border:none;cursor:pointer;'>Pumunta sa Susunod na Seksyon →</button></a>", unsafe_allow_html=True)
+        st.markdown("<a href='https://morerationalph.streamlit.app/Set_Theory-Set_Difference' target='_self'><button style='font-size:16px;padding:8px 16px;border-radius:6px;background:#0099f6;color:white;border:none;cursor:pointer;'>Pumunta sa Susunod na Seksyon →</button></a>", unsafe_allow_html=True)
     st.stop()
 
 
@@ -259,4 +259,5 @@ if st.session_state.submitted_last:
 # BUHAY NA PUNTOS
 # --------------------------
 st.markdown(f"##### Puntos: **{st.session_state.score} / {len(q_list)}**")
+
 
