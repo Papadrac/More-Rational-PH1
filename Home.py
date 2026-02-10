@@ -118,14 +118,15 @@ st.markdown('''
   <div style="background:#fff; border-radius:18px; box-shadow:0 2px 16px rgba(13,35,70,0.12); padding:20px 20px; min-width:220px; max-width:280px; border:2px solid #1976d2;">
     <h3 style="margin-top:0; margin-bottom:10px; color:#1976d2; font-size:1.15em; font-weight:bold; text-align:left;">Events:</h3>
     <ul style="padding-left:14px; font-size:0.95em; color:#222;">
-    <li><b>Meetup:</b> <a href="https://www.meetup.com/more-rational-ph/events/312940053/?eventOrigin=group_upcoming_events" target="_blank" style="font-size:0.95em; color:#111; text-decoration:underline; font-weight:bold;">Understanding People and Self</a><br>
-        <span style="font-size:0.85em; color:#1976d2;">Feb 07, 2026</span>
+    <li><b>Meetup:</b> <a href="https://www.meetup.com/more-rational-ph/events/313155066/?eventOrigin=home_next_event_you_are_hosting" target="_blank" style="font-size:0.95em; color:#111; text-decoration:underline; font-weight:bold;">More Rational PH Meetup</a><br>
+        <span style="font-size:0.85em; color:#1976d2;">Feb 21, 2026</span>
       </li>
       <li><b>Meetup:</b> More Rational PH Meetup<br><span style="font-size:0.85em; color:#1976d2;">Feb 25, 2026</span></li>
     </ul>
   </div>
 </div>
 ''', unsafe_allow_html=True)
+
 
 
 
