@@ -159,7 +159,7 @@ st.markdown('''
   ">Join our WhatsApp Group</a>
 </div>
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
-  <a href="https://www.bing.com/images/search?view=detailV2&ccid=55DCXbXl&id=88211BA5F818647E48CF22DB0C9F1A634DFE5827&thid=OIP.55DCXbXlKDgEBoZhKxpzLAHaHa&mediaurl=https%3a%2f%2fpngimg.com%2fuploads%2ffacebook_logos%2ffacebook_logos_PNG19757.png&exph=2000&expw=2000&q=fb+icon&mode=overlay&FORM=IQFRBA&ck=4EEB865935313EC89CB20758B6BC3EDE&selectedIndex=0&idpp=serp&ajaxhist=0&ajaxserp=0" target="_blank" style="display:inline-block;">
+  <a href="https://imgur.com/kc4rJmO" target="_blank" style="display:inline-block;">
     <img src="https://static.vecteezy.com/system/resources/previews/018/930/698/non_2x/facebook-logo-facebook-icon-transparent-free-png.png" alt="Facebook Icon" style="width:34px; height:34px; object-fit:contain; vertical-align:middle;"/>
   </a>
   <a href="https://www.facebook.com/groups/1663328047944433" target="_blank" style="
@@ -177,6 +177,7 @@ st.markdown('''
   ">Join our Facebook Group</a>
 </div>
 ''', unsafe_allow_html=True)
+
 
 
 
