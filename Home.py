@@ -106,9 +106,9 @@ st.markdown('''
 }
 </style>
 <div style="width:100%; display:flex; justify-content:center; gap:32px; margin-top:40px;">
-  <span class="circle-border"><a href="https://more-rational-ph1-jqfq2eed47wdgf6c79n2as.streamlit.app/About_Us" class="rect-link yellow">About Us</a></span>
-    <span class="circle-border"><a href="https://more-rational-ph1-jqfq2eed47wdgf6c79n2as.streamlit.app/Bakit_Rationality" class="rect-link yellow">Bakit Rationality</a></span>
-  <span class="circle-border"><a href="https://more-rational-ph1-jqfq2eed47wdgf6c79n2as.streamlit.app/Panuntunan" class="rect-link blue">Improve Your Thinking</a></span>
+  <span class="circle-border"><a href="https://morerationalph.streamlit.app/About_Us" class="rect-link yellow">About Us</a></span>
+    <span class="circle-border"><a href="https://morerationalph.streamlit.app/Bakit_Rationality" class="rect-link yellow">Bakit Rationality</a></span>
+  <span class="circle-border"><a href="https://morerationalph.streamlit.app/Panuntunan" class="rect-link blue">Improve Your Thinking</a></span>
 </div>
 ''', unsafe_allow_html=True)
 
@@ -173,6 +173,7 @@ st.markdown('''
   ">Join our Facebook Group</a>
 </div>
 ''', unsafe_allow_html=True)
+
 
 
 
