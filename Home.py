@@ -141,7 +141,7 @@ st.write("")
 
 st.markdown('''
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
-  <a href="https://www.bing.com/images/search?view=detailV2&ccid=%2b7p9VwF7&id=A5A67B4A770D87AFD7DAD2D87C959FDBD1CE0233&thid=OIP.-7p9VwF735Ck-UWIAOPkBAHaHO&mediaurl=https%3a%2f%2fpngmark.com%2fwp-content%2fuploads%2f2023%2f01%2fWhatsapp-1024x1000.png&exph=1000&expw=1024&q=whatsapp+icon+copy+paste&mode=overlay&FORM=IQFRBA&ck=FC70739AE54247484262ECA147F55DF3&selectedIndex=0&idpp=serp&ajaxhist=0&ajaxserp=0" target="_blank" style="display:inline-block;">
+  <a href="https://imgur.com/1wnMW4l" target="_blank" style="display:inline-block;">
     <img src="https://pngmark.com/wp-content/uploads/2023/01/Whatsapp-1024x1000.png" alt="WhatsApp Icon" style="width:34px; height:34px; object-fit:contain; vertical-align:middle;"/>
   </a>
   <a href="https://chat.whatsapp.com/JlWpprYtqNBEzmwpu0wqJb" target="_blank" style="
@@ -177,6 +177,7 @@ st.markdown('''
   ">Join our Facebook Group</a>
 </div>
 ''', unsafe_allow_html=True)
+
 
 
 
