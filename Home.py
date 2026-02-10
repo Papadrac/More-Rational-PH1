@@ -141,9 +141,7 @@ st.write("")
 
 st.markdown('''
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
-  <a href="https://imgur.com/1wnMW4l" target="_blank" style="display:inline-block;">
-    <img src="https://pngmark.com/wp-content/uploads/2023/01/Whatsapp-1024x1000.png" alt="WhatsApp Icon" style="width:34px; height:34px; object-fit:contain; vertical-align:middle;"/>
-  </a>
+  <img src="https://pngmark.com/wp-content/uploads/2023/01/Whatsapp-1024x1000.png" alt="WhatsApp Icon" style="width:34px; height:34px; object-fit:contain; vertical-align:middle;"/>
   <a href="https://chat.whatsapp.com/JlWpprYtqNBEzmwpu0wqJb" target="_blank" style="
       display: inline-block;
       background: #25D366;
@@ -159,9 +157,7 @@ st.markdown('''
   ">Join our WhatsApp Group</a>
 </div>
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
-  <a href="https://imgur.com/kc4rJmO" target="_blank" style="display:inline-block;">
-    <img src="https://static.vecteezy.com/system/resources/previews/018/930/698/non_2x/facebook-logo-facebook-icon-transparent-free-png.png" alt="Facebook Icon" style="width:34px; height:34px; object-fit:contain; vertical-align:middle;"/>
-  </a>
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/698/non_2x/facebook-logo-facebook-icon-transparent-free-png.png" alt="Facebook Icon" style="width:34px; height:34px; object-fit:contain; vertical-align:middle;"/>
   <a href="https://www.facebook.com/groups/1663328047944433" target="_blank" style="
       display: inline-block;
       background: #1877f3;
@@ -177,7 +173,6 @@ st.markdown('''
   ">Join our Facebook Group</a>
 </div>
 ''', unsafe_allow_html=True)
-
 
 
 
