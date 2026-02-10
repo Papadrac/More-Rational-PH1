@@ -73,7 +73,7 @@ st.markdown("<p style='font-size:24px; text-align:justify;'>Kumusta! Maligayang 
 
     # Show images/meet1.JPG to the right of the first two paragraphs
 with st.container():
-        col_left, col_right = st.columns([5, 3])
+        col_left, col_right = st.columns([5, 2])
         with col_left:
             st.markdown("<p style='font-size:24px; text-align:justify;'>Para lumawak ang pag-iisip, gumagawa ang grupo ng mga regular na pagtitipon. Dito nagkakaroon ng pagbabahagi ng mga ideya sa bawat miyembro, mapasang-ayon man o labag sa kani-kanilang paniniwala.</p>", unsafe_allow_html=True)
 
@@ -96,6 +96,7 @@ st.markdown('''
     <a href="https://more-rational-ph1-jqfq2eed47wdgf6c79n2as.streamlit.app/Panuntunan" style="display:inline-block;margin-top:24px;padding:16px 32px;background:#222;border-radius:12px;color:white;font-size:19px;text-decoration:none;box-shadow:0 0 16px 4px #42a5f5, 0 2px 8px rgba(0,0,0,0.2);font-weight:bold;">Tingnan ang Panuntunan &#8594;</a>
 </div>
 ''', unsafe_allow_html=True)
+
 
 
 
