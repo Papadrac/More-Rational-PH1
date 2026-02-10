@@ -121,11 +121,12 @@ st.markdown('''
     <li><b>Meetup:</b> <a href="https://www.meetup.com/more-rational-ph/events/313155066/?eventOrigin=home_next_event_you_are_hosting" target="_blank" style="font-size:0.95em; color:#111; text-decoration:underline; font-weight:bold;">More Rational PH Meetup</a><br>
         <span style="font-size:0.85em; color:#1976d2;">Feb 21, 2026</span>
       </li>
-      <li><b>Meetup:</b> More Rational PH Meetup<br><span style="font-size:0.85em; color:#1976d2;">Feb 25, 2026</span></li>
+      <li><b>Meetup:</b> More Rational PH Meetup<br><span style="font-size:0.85em; color:#1976d2;">TBA</span></li>
     </ul>
   </div>
 </div>
 ''', unsafe_allow_html=True)
+
 
 
 
