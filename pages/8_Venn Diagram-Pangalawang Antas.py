@@ -8,7 +8,7 @@ with col_logo:
 
 with col_header:
     st.subheader("*Venn Diagram*: Pangalawang Antas")
-    st.write("Para Makumpleto ang *Venn Diagram*, hanapin A ∩ B, A - B, B - A, at (A ∪ B)'. Pumili ng tamang sagot sa bawat tanong.")
+    st.write("Para makumpleto ang *Venn Diagram*, hanapin ang A ∩ B, A - B, B - A, at (A ∪ B)'. Pumili ng tamang sagot sa bawat tanong.")
 st.write("--------")
 # --- Session state for quiz navigation ---
 if 'quiz_step' not in st.session_state:
@@ -353,4 +353,5 @@ if step == total:
                 
         with col_btn:
             st.markdown("<a href='https://morerationalph.streamlit.app/Venn_Diagram-pangatlong_Antas' target='_blank'><button style='font-size:1em; padding:8px 16px; background:#4CAF50; color:white; border:none; border-radius:4px; cursor:pointer;'>Pumunta sa Sunod na Seksyon &#8594;</button></a>", unsafe_allow_html=True)
+
 
