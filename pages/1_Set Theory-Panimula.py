@@ -97,7 +97,7 @@ questions = [
         "statement": "Dalawang sako ay naglalaman ng mga sumusunod na letra na maaaring ilarawan bilang mga <i>sets</i>: <i>Set</i> A={D,T} at <i>Set</i> B={C,D,R,T,X}. Ang <i>set</i> A ba ay isang <i>subset</i> ng B (A ⊆ B)? ",
         "answer": True,
         "image": "https://imgur.com/1ZJCo3y.jpg",
-        "image_width": 150,
+        "image_width": 250,
         "explanation": "Dahil ang Sako A ay naglalaman lamang ng D at T, at pareho ang D at T ay nasa Sako B, ang A ay isang <i>subset</i> ng B."
     },
     {
@@ -251,5 +251,6 @@ if st.session_state.submitted_last:
 # LIVE SCORE
 # --------------------------
 st.markdown(f"##### Marka: **{st.session_state.score} / {len(q_list)}**")
+
 
 
