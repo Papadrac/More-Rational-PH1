@@ -88,7 +88,7 @@ st.markdown("""
     More Rational PH
   </h1>
   <br>
-  <a href="https://morerationalph.streamlit.app/Panuntunan" style='display:inline-block; margin-top:2em; background:#ffd700; color:#0d2346; font-size:1.5vw; font-weight:bold; padding:24px 64px; border-radius:20px; text-decoration:none; box-shadow:0 6px 24px 0 rgba(200,200,200,0.30);'>
+  <a href="https://morerationalph.streamlit.app/Panuntunan" style='display:inline-block; margin-top:6em; background:#ffd700; color:#0d2346; font-size:1.5vw; font-weight:bold; padding:24px 64px; border-radius:20px; text-decoration:none; box-shadow:0 6px 24px 0 rgba(200,200,200,0.30);'>
     Pagandahin ang Iyong Pag-iisip
   </a>
 </div>
