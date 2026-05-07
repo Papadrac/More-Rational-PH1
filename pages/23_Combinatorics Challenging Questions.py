@@ -7,8 +7,8 @@ with col_logo:
     st.image("https://imgur.com/wuASFCz.jpg", width=150)
 
 with col_header:
-    st.subheader("*Counting*: Unang Antas")
-    st.write("Bilangin ang mga *elements* na tinutukoy sa bawat tanong")
+    st.subheader("*Combinatorics*: Hamon na Tanong")
+    st.write("Gamitin ang mga natutuhang kaalaman mula sa nakaraang seksiyon upang sagutin ang mga sumusunod na tanong.")
 st.write("--------")
 # --- Session state for quiz navigation ---
 if 'quiz_step' not in st.session_state:
