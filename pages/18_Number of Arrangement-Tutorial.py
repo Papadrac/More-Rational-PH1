@@ -167,7 +167,7 @@ elif st.session_state['tutorial_page'] == 2:
 <div style='margin-top:24px; font-size:1.1em; color:#2E8B57; font-weight:500;'>
 Ngayon alam mo na pano sagutan, <b>Subukan ang susunod na mga tanong</b>:
 </div>
-<a href="https://morerationalph.streamlit.app/" target="_self">
+<a href="https://morerationalph.streamlit.app/Number_of_Arrangement" target="_self">
 <button style='font-size:1em; padding:8px 16px; background:#4CAF50; color:white; border:none; border-radius:4px; cursor:pointer; margin-top:8px;'>Pumunta sa Susunod na Seksyon &#8594;</button>
 </a>
 """, unsafe_allow_html=True)
