@@ -170,4 +170,4 @@ if step == total:
             if st.button("Sagutan Muli", key="reset_quiz"):
                 st.session_state.clear()
         with col_btn:
-            st.markdown("<a href='https://morerationalph.streamlit.app/Counting-Pangalawang_Antas' target='_blank'><button style='font-size:1em; padding:8px 16px; background:#4CAF50; color:white; border:none; border-radius:4px; cursor:pointer;'>Parami pang Darating na Pahina, return Home &#8594;</button></a>", unsafe_allow_html=True)
+            st.markdown("<a href='https://morerationalph.streamlit.app/Counting-Pangalawang_Antas' target='_blank'><button style='font-size:1em; padding:8px 16px; background:#4CAF50; color:white; border:none; border-radius:4px; cursor:pointer;'>Pumunta sa Sunod na Seksyon &#8594;</button></a>", unsafe_allow_html=True)
