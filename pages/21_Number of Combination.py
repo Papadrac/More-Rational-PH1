@@ -7,8 +7,8 @@ with col_logo:
     st.image("https://imgur.com/wuASFCz.jpg", width=150)
 
 with col_header:
-    st.subheader("*Permutations*: Bilang ng Posibleng Ayos")
-    st.write("Bilangin ang bilang ng posibleng ayos o pagkakasunod-sunod ng mga bagay.")
+    st.subheader("*Combination*: Bilang ng Posibleng Kombinasyon")
+    st.write("Bilangin ang bilang ng posibleng grupo o kombinasyon.")
 st.write("--------")
 # --- Session state for quiz navigation ---
 if 'quiz_step' not in st.session_state:
