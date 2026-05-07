@@ -107,7 +107,7 @@ May 6 na kakanin: Puto, Kutsinta, Suman, Bibingka, Sapin-sapin, at Kalamay. Ilan
 <div style='margin-top:24px; font-size:1.1em; color:#2E8B57; font-weight:500;'>
 Handa ka na sa susunod na bahagi!
 </div>
-<a href="/pages/21_Susunod_na_Tutorial.py">
+<a href="https://morerationalph.streamlit.app/Number_of_Combination">
 <button style='font-size:1em; padding:8px 16px; background:#4CAF50; color:white; border:none; border-radius:4px; cursor:pointer; margin-top:8px;'>Susunod &rarr;</button>
 </a>
 """, unsafe_allow_html=True)
