@@ -90,8 +90,8 @@ questions = [
     
     {
         "question": "May 8 na parol na nakasabit: 5 pula, 2 berde, 1 dilaw. Ano ang probability na makapili ng parol na berde?",
-        "choices": ["5/8", "1/8", "1/4", "2/8"],
-        "answer": {"1/4"},
+        "choices": ["5/8", "1/8", "1/5", "2/8"],
+        "answer": {"2/8"},
         "image": None,
         "solution": "May 2 berde sa 8 parol. Kaya 2/8 = 1/4.",
         "image_width": 400
