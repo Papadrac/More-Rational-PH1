@@ -221,7 +221,7 @@ if st.session_state.submitted_last:
                 del st.session_state["last_scored_index"]
             st.rerun()
     with col_right:
-        st.markdown("<a href='/Pages/1_Set Theory-Rewriting Sets' target='_self'><button style='font-size:16px;padding:8px 16px;border-radius:6px;background:#0099f6;color:white;border:none;cursor:pointer;'>Pumunta sa Susunod na Seksyon →</button></a>", unsafe_allow_html=True)
+        st.markdown("<a href='https://morerationalph.streamlit.app/Number_Theory-GCD' target='_self'><button style='font-size:16px;padding:8px 16px;border-radius:6px;background:#0099f6;color:white;border:none;cursor:pointer;'>Pumunta sa Susunod na Seksyon →</button></a>", unsafe_allow_html=True)
 
     st.stop()
 
