@@ -203,7 +203,7 @@ st.markdown("""
       </div>
     </a>
     <!-- Number Theory Course -->
-    <a href="https://morerationalph.streamlit.app/" style="text-decoration:none; flex:1; min-width:320px; max-width:400px;">
+    <a href="https://morerationalph.streamlit.app/Number_Theory-Panimula" style="text-decoration:none; flex:1; min-width:320px; max-width:400px;">
       <div style='background:#0d2346; border-radius:18px; box-shadow:0 2px 16px rgba(13,35,70,0.18); padding:32px 24px; height:100%; transition:box-shadow 0.2s; cursor:pointer;'>
         <img src='https://imgur.com/CgUw6qt.png' alt='Number Theory' style='width:100%; max-width:220px; display:block; margin:auto; margin-bottom:18px; border-radius:12px; box-shadow:0 2px 8px rgba(13,35,70,0.20);'/>
         <h3 style='color:#fff; text-align:center;'>Number Theory</h3>
