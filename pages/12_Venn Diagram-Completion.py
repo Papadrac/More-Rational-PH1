@@ -20,6 +20,6 @@ st.markdown(
 )
 
 st.markdown(
-    "<div style='text-align:center; margin-top:8px;'><a href='/Pages/15_Counting-Unang Antas' target='_self'><button style='font-size:16px;padding:10px 18px;border-radius:6px;background:#0099f6;color:white;border:none;cursor:pointer;'>Pumunta sa Counting and Combinatorics →</button></a></div>",
+    "<div style='text-align:center; margin-top:8px;'><a href='https://morerationalph.streamlit.app/Counting-Unang_Antas' target='_self'><button style='font-size:16px;padding:10px 18px;border-radius:6px;background:#0099f6;color:white;border:none;cursor:pointer;'>Pumunta sa Counting and Combinatorics →</button></a></div>",
     unsafe_allow_html=True,
 )
