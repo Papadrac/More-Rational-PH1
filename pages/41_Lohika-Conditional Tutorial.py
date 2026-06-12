@@ -135,3 +135,7 @@ if st.button("I-check ang sagot sa Tanong 2"):
 
         if score == 3:
             st.balloons()
+            st.markdown(
+                "<a href='https://morerationalph.streamlit.app/Lohika-Conditional' target='_self'><button style='font-size:16px;padding:8px 16px;border-radius:6px;background:#0099f6;color:white;border:none;cursor:pointer;'>Pumunta sa Susunod na Seksyon →</button></a>",
+                unsafe_allow_html=True,
+            )
