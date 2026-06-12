@@ -20,6 +20,6 @@ st.markdown(
 )
 
 st.markdown(
-    "<div style='text-align:center; margin-top:8px;'><a href='/Pages/38_Lohika-Panimula' target='_self'><button style='font-size:16px;padding:10px 18px;border-radius:6px;background:#0099f6;color:white;border:none;cursor:pointer;'>Pumunta sa Lohika →</button></a></div>",
+    "<div style='text-align:center; margin-top:8px;'><a href='https://morerationalph.streamlit.app/Lohika-Panimula' target='_self'><button style='font-size:16px;padding:10px 18px;border-radius:6px;background:#0099f6;color:white;border:none;cursor:pointer;'>Pumunta sa Lohika →</button></a></div>",
     unsafe_allow_html=True,
 )
